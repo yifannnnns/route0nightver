@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 象山 · 〇号环岛公路",
+  "description": "象山县「〇号环岛公路」品牌数字文旅小程序。集地图导览、活动日历、社群广场于一体，打造「快进慢游」的可持续公路旅游体验。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
